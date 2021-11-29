@@ -26,5 +26,7 @@ bash <(wget --no-check-certificate -qO- 'https://moeclub.org/attachment/LinuxShe
 ​                -dd/--image
 ​                -a/-m
 
+
+
 master:
 https://moeclub.org/attachment/LinuxShell/InstallNET.sh
