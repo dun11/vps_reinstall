@@ -17,14 +17,23 @@ bash <(wget --no-check-certificate -qO- 'https://moeclub.org/attachment/LinuxShe
 
 
 ​    bash InstallNET.sh   -d/--debian [dist-name]
+
 ​                -u/--ubuntu [dist-name]
+
 ​                -c/--centos [dist-version]
+
 ​                -v/--ver [32/i386|64/amd64]
+
 ​                -p
+
 ​                --ip-addr/--ip-gate/--ip-mask
+
 ​                -apt/-yum/--mirror
+
 ​                -dd/--image
+
 ​                -a/-m
+
 
 
 
