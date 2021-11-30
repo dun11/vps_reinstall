@@ -1,3 +1,9 @@
+bash <(wget --no-check-certificate -qO- 'https://moeclub.org/attachment/LinuxShell/InstallNET.sh') -d 10 -v 64 -p ######## -a -firmware
+
+
+
+
+
 bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/dun11/vps_reinstall_debian/main/InstallNET.sh') -d 9 -v 32 -p ciphercode -a -firmware
 
 
