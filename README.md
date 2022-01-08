@@ -19,7 +19,7 @@ bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/dun11
 
 
 
-bash <(wget --no-check-certificate -qO- 'https://moeclub.org/attachment/LinuxShell/InstallNET.sh') -d 10 -v 64 -p pasSw0rd -a -firmware
+bash <(wget --no-check-certificate -qO- 'https://moeclub.org/attachment/LinuxShell/InstallNET.sh') -d 10 -v 64 -p ciphercode -a -firmware
 
 
 ​    bash InstallNET.sh   -d/--debian [dist-name]
